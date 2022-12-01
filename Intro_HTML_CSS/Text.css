@@ -1,0 +1,61 @@
+
+.video-title{
+    font-family:Arial;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 24px;
+    width: 300px;
+    margin-bottom: 2px;
+      
+    }
+    
+.Views {
+    font-size: 14px;
+    color: #606060;
+    margin-bottom: 16px;
+    margin-top: 0;
+    font-family: Arial;
+    }
+    
+.Account_Owner {
+    font-size: 14px;
+    margin-bottom: 16px;
+    color: #606060;
+    font-family: Arial;
+    }
+    
+.Description {
+    font-family: Arial;
+    width: 300px;
+    font-size: 14px;
+    color: #606060;
+    line-height: 23px;
+    font-size: 15px;
+    }
+    
+p{
+    font-family: Roboto;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    }
+    
+
+.Example{
+    margin-top: 100px;
+    background-color: red; opacity: 0.7;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-left: 16px;
+    margin-right: 16px;
+    text-align: center; 
+    color: white;
+    }
+.link_tab:hover{
+    text-decoration: underline;
+    cursor: pointer;
+            
+    
+    }
+    
+    
